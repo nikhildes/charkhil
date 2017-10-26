@@ -2,14 +2,14 @@
 #
 
 # Site settings
-title: "Sarah + Matt"
+title: "Charlotte + Nikhil"
 description: |
-    Lawrence, Kansas
+    Santa Barbara, CA
 
-    June 3, 2017
-owner: Matt Menzenski # or company name
-first_published: 2016 # if migrating another site, the year of your first publish
-email: matt.menzenski@gmail.com
+    October 6, 2018
+owner: Nikhil Deshmukh # or company name
+first_published: 2017 # if migrating another site, the year of your first publish
+email: thenikhil@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
@@ -17,7 +17,7 @@ google_analytics: UA-47395716-3
 
 social:
   #twitter: https://twitter.com/menzenski
-  github: https://github.com/menzenski/wedding-site
+  github: https://github.com/nikhildes/charkhil
   #linkedin-square: https://linkedin.com/in/<username>
   #facebook-official: https://facebook.com/<username>
   #google-plus-square: https://plus.google.com/u/0/+<username>
